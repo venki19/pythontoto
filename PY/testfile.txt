@@ -1,0 +1,10 @@
+
+
+------------------------------------------------
+LOGIN TEST -- PASSED. The page title is: 'BPS Portal-Home'|| 2018-05-18 10:30:27.952319
+
+------------------------------------------------
+iDMSLink was successful -- PASSED. The page title is: 'iDMS Home Page'|| 2018-05-18 10:30:27.952319
+
+------------------------------------------------
+ Help Document Link was successful -- PASSED. The page title is: 'Help Document'|| 2018-05-18 10:30:27.952319
